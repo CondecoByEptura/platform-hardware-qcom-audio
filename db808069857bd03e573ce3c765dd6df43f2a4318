@@ -1,0 +1,9 @@
+Presubmit-Verified+1: Treehugger Robot <treehugger-gerrit@google.com>
+Code-Review+1: Ed Heyl <edheyl@google.com>
+Code-Review+2: Pat Tjin <pattjin@google.com>
+Verified+1: Martijn Coenen <maco@google.com>
+Submitted-by: Martijn Coenen <maco@google.com>
+Submitted-at: Thu, 12 Jan 2017 09:14:20 +0000
+Reviewed-on: https://android-review.googlesource.com/316758
+Project: device/huawei/angler-kernel
+Branch: refs/heads/master
